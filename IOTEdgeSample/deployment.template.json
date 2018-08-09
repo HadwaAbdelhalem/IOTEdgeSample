@@ -52,7 +52,7 @@
             "status": "running",
             "restartPolicy": "always",
             "settings": {
-              "image": "${MODULES.CSharpModule.amd64}",
+              "image": "${MODULES.CSharpModule.windows-amd64}",
               "createOptions": ""
             }
           }
